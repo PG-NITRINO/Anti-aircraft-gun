@@ -1,0 +1,29 @@
+#include "windows.h"
+
+MYICON ICON "C:\\_resourse_for_game\\vimeo.ico"
+MYCURSOR CURSOR "C:\\_resourse_for_game\\Arrow.cur"
+
+MYMENU BITMAP "C:\\_resourse_for_game\\Sky_clear_2.BMP"
+MYBUTTON BITMAP "C:\\_resourse_for_game\\wall9.bmp"
+MYSTONE BITMAP "C:\\_resourse_for_game\\Wil4647.bmp"
+MYABOUT BITMAP "C:\\_resourse_for_game\\Wilsaf13.bmp"
+MYMECH BITMAP "C:\\_resourse_for_game\\meсh.bmp"
+//Слева направо и справа налево и с жизнями
+MYAIRPLANE_LtoR_RED BITMAP "C:\\_resourse_for_game\\airplane_Left_to_Rigth_red.bmp"
+MYAIRPLANE_RtoL_RED BITMAP "C:\\_resourse_for_game\\airplane_Rigth_to_Left_red.bmp"
+
+MYAIRPLANE_LtoR_ORANGE BITMAP "C:\\_resourse_for_game\\airplane_Left_to_Rigth_orange.bmp"
+MYAIRPLANE_RtoL_ORANGE BITMAP "C:\\_resourse_for_game\\airplane_Rigth_to_Left_orange.bmp"
+
+MYAIRPLANE_LtoR_GREEN BITMAP "C:\\_resourse_for_game\\airplane_Left_to_Rigth_green.bmp"
+MYAIRPLANE_RtoL_GREEN BITMAP "C:\\_resourse_for_game\\airplane_Rigth_to_Left_green.bmp"
+//Бомбы с жизнями
+MYBOMBRED BITMAP "C:\\_resourse_for_game\\bomb_red.bmp"
+MYBOMBORANGE BITMAP "C:\\_resourse_for_game\\bomb_orange.bmp"
+MYBOMBGREEN BITMAP "C:\\_resourse_for_game\\bomb_green.bmp"
+
+MYSKY BITMAP "C:\\_resourse_for_game\\wall33.bmp"
+MYSKYNIGHT BITMAP "C:\\_resourse_for_game\\Sky_clear_2.BMP"
+//Sky_night_2.BMP Sky_stars_2
+
+
